@@ -10,5 +10,5 @@ This is a basic counter application built with React and Redux. The application 
 
 ## Technologies Used
 - React
-- Redux
+- Redux-toolkit
 - Tailwind CSS
